@@ -1218,10 +1218,9 @@ curl http://localhost:3001/health
 
 For issues, questions, or feature requests:
 
-- **Issues:** Open a GitHub issue in the repository
-- **Email:** booking-service-team@airline.com
-- **Slack:** #booking-service-support
-
+- **GitHub Issues:** [Booking Issues](https://github.com/krishsingh120/BookingService.git)
+- **Email:** krishsin2254@gmail.com
+- **Documentation:** [Full API Docs](https://docs.airline.com/Bookingservice)
 ---
 
 ## Changelog
